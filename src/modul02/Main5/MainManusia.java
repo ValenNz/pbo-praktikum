@@ -1,4 +1,4 @@
-package Main5;
+package modul02.Main5;
 
 public class MainManusia{
     public static void main(String[] args){

@@ -1,3 +1,5 @@
+package modul02;
+
 public class Main1 {
     public static void main(String[] args) {
         int dataint;

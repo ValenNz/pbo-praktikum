@@ -1,3 +1,5 @@
+package modul02;
+
 public class Main7 {
     public static void main(String args[]){
         int month = 4;

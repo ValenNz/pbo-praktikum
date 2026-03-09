@@ -1,3 +1,5 @@
+package modul02;
+
 public class Main2 {
     public static void main(String[] args) {
         final int x = 2;
