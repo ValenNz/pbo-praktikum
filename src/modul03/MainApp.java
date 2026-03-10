@@ -2,7 +2,7 @@ package modul03;
 
 public class MainApp {
     public static void main(String[] args) {
-        var student1 = new Student("2301", "Dani");
+        var student1 = new Student("103072430008", "Nuevalen Refitra Alswando");
         // Student student2 = new Student();
 
         // student1.nim = "1234";
